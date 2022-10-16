@@ -53,6 +53,7 @@ Build a Programming Languages Cards App using ReactJS.
 - use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
 🔗 <b>To see live version<b> 🎯https://tal58.github.io/programming_language_cards_with_react/
+**<p align="center">&#9786; Happy Coding &#9997;</p>**
 
 **<p align="center">&#9786; Happy Coding &#9997;</p>**
 
@@ -89,4 +90,4 @@ Build a Programming Languages Cards App using ReactJS.
 <br>
 <br><br><br><br><br><br><br><br><br>
 
-**<p align="center">&#9786; Happy Coding &#9997;</p>**
+
